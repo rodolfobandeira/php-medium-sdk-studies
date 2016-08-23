@@ -1,0 +1,3 @@
+app_config:
+    self_issued_token: 'GENERATE_ON_MEDIUM_WEBSITE'
+    # You can get this token under the section "Integration Tokens" on: https://medium.com/me/settings
